@@ -10,25 +10,107 @@
     
     <!-- 地区代码 -->
     <string-array name="region_codes">
-        <item>us</item>
-        <item>jp</item>
-        <item>kr</item>
-        <item>tw</item>
-        <item>hk</item>
-        <item>sg</item>
-        <item>gb</item>
-        <item>de</item>
-    </string-array>
+<item>us</item>
+<item>gb</item>
+<item>jp</item>
+<item>kr</item>
+<item>sg</item>
+<item>de</item>
+<item>hk</item>
+<item>tw</item>
+<item>fr</item>
+<item>ca</item>
+<item>au</item>
+<item>nz</item>
+<item>mx</item>
+<item>br</item>
+<item>ar</item>
+<item>cl</item>
+<item>co</item>
+<item>pe</item>
+<item>it</item>
+<item>es</item>
+<item>nl</item>
+<item>be</item>
+<item>se</item>
+<item>no</item>
+<item>dk</item>
+<item>fi</item>
+<item>pl</item>
+<item>ie</item>
+<item>pt</item>
+<item>ch</item>
+<item>at</item>
+<item>gr</item>
+<item>cz</item>
+<item>ro</item>
+<item>ua</item>
+<item>tr</item>
+<item>my</item>
+<item>th</item>
+<item>id</item>
+<item>ph</item>
+<item>vn</item>
+<item>bd</item>
+<item>sa</item>
+<item>ae</item>
+<item>il</item>
+<item>eg</item>
+<item>za</item>
+<item>ng</item>
+<item>ke</item>
+</string-array>
     
     <!-- 地区显示名称 -->
     <string-array name="region_names">
-        <item>美国 (T-Mobile)</item>
-        <item>日本 (NTT DOCOMO)</item>
-        <item>韩国 (SK Telecom)</item>
-        <item>台湾 (中华电信)</item>
-        <item>香港 (CSL Mobile)</item>
-        <item>新加坡 (SingTel)</item>
-        <item>英国 (O2 UK)</item>
-        <item>德国 (T-Mobile DE)</item>
-    </string-array>
+<item>美国 (T-Mobile)</item>
+<item>英国 (O2 UK)</item>
+<item>日本 (NTT DOCOMO)</item>
+<item>韩国 (SK Telecom)</item>
+<item>新加坡 (SingTel)</item>
+<item>德国 (T-Mobile DE)</item>
+<item>香港 (CSL Mobile)</item>
+<item>台湾 (Chunghwa Telecom)</item>
+<item>法国 (Orange F)</item>
+<item>加拿大 (Rogers)</item>
+<item>澳大利亚 (Telstra)</item>
+<item>新西兰 (Spark)</item>
+<item>墨西哥 (Telcel)</item>
+<item>巴西 (Vivo)</item>
+<item>阿根廷 (Claro)</item>
+<item>智利 (Entel)</item>
+<item>哥伦比亚 (Claro)</item>
+<item>秘鲁 (Claro)</item>
+<item>意大利 (TIM)</item>
+<item>西班牙 (Movistar)</item>
+<item>荷兰 (KPN)</item>
+<item>比利时 (Proximus)</item>
+<item>瑞典 (Telia)</item>
+<item>挪威 (Telenor)</item>
+<item>丹麦 (TDC)</item>
+<item>芬兰 (Elisa)</item>
+<item>波兰 (Orange)</item>
+<item>爱尔兰 (Vodafone)</item>
+<item>葡萄牙 (MEO)</item>
+<item>瑞士 (Swisscom)</item>
+<item>奥地利 (A1)</item>
+<item>希腊 (Cosmote)</item>
+<item>捷克 (T-Mobile CZ)</item>
+<item>罗马尼亚 (Orange)</item>
+<item>乌克兰 (Kyivstar)</item>
+<item>土耳其 (Turkcell)</item>
+<item>马来西亚 (Maxis)</item>
+<item>泰国 (AIS)</item>
+<item>印度尼西亚 (Telkomsel)</item>
+<item>菲律宾 (Globe)</item>
+<item>越南 (Viettel)</item>
+<item>孟加拉国 (Grameenphone)</item>
+<item>沙特阿拉伯 (STC)</item>
+<item>阿联酋 (Etisalat)</item>
+<item>以色列 (Partner)</item>
+<item>埃及 (Vodafone)</item>
+<item>南非 (Vodacom)</item>
+<item>尼日利亚 (MTN)</item>
+<item>肯尼亚 (Safaricom)</item>
+</string-array>
 </resources>
